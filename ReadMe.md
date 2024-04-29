@@ -1,12 +1,12 @@
 # 💫 About Me:
 **I'm currently working on:**<br>
-"I am currently engaged in a research project at the Surf Undergraduate Research program where I am developing and refining guided walking speed techniques for virtual reality using Unity3D. Additionally, I am actively working on building various projects and applications that leverage my programming skills across different platforms."<br><br>
+I am currently engaged in a research project at the Surf Undergraduate Research program where I am developing and refining guided walking speed techniques for virtual reality using Unity3D. Additionally, I am actively working on building various projects and applications that leverage my programming skills across different platforms.<br><br>
 **I'm currently learning:**<br>
-"I'm currently enhancing my skills in React and advanced JavaScript, focusing on real-time data fetching and efficient user interface design. I'm also delving deeper into best practices for software testing and deployment."<br><br>
+I'm currently enhancing my skills in React and advanced JavaScript, focusing on real-time data fetching and efficient user interface design. I'm also delving deeper into best practices for software testing and deployment.<br><br>
 **Ask me about:**<br>
-"Feel free to ask me about my experience developing a digital TA scheduling web application using Python and Django, my project creating a dynamic weather forecast application, or my personal website which showcases my projects and career aspirations. I’m also happy to discuss my passions for virtual reality, software development, and my experiences in long-distance running."<br><br>
+Feel free to ask me about my experience developing a digital TA scheduling web application using Python and Django, my project creating a dynamic weather forecast application, or my personal website which showcases my projects and career aspirations. I’m also happy to discuss my passions for virtual reality, software development, and my experiences in long-distance running.<br><br>
 **Fun fact:**<br>
-"A fun fact about me is that besides my technical skills, I also enjoy participating in peer mentoring, where I help freshmen and sophomores transition smoothly into university life. Plus, I’m currently training for and will be running a half marathon, which is a thrilling new challenge for me."<br><br>
+A fun fact about me is that besides my technical skills, I also enjoy participating in peer mentoring, where I help freshmen and sophomores transition smoothly into university life. Plus, I’m currently training for and will be running a half marathon, which is a thrilling new challenge for me.<br><br>
 
 
 
