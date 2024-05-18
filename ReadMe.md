@@ -8,7 +8,8 @@ Feel free to ask me about my experience developing a digital TA scheduling web a
 **Fun fact:**<br>
 A fun fact about me is that besides my technical skills, I also enjoy participating in peer mentoring, where I help freshmen and sophomores transition smoothly into university life. Plus, I’m currently training for and will be running a half marathon, which is a thrilling new challenge for me.<br><br>
 
-
+**Website:**<br>
+https://bijay5489.github.io/My-Website/
 
 
 ## 🌐 Socials:
